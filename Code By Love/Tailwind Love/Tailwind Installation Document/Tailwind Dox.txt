@@ -1,0 +1,10 @@
+1. Use this command in terminal--->
+   npm install -D tailwindcss postcss autoprefixer vite.
+2. Use this command in Terminal-->
+   npx tailwindcss init -p
+3. Use "*" inside content of tailwind.config.js .
+4. Use this CSS --->
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+5. add Scripts as "start":"vite".
